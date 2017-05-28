@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\汽车租赁系统\系统源代码\CarRent\CarRent\bin\CarRent.dll
+C:\Users\Martin\Desktop\汽车租赁系统\系统源代码\CarRent\CarRent\bin\CarRent.pdb
+C:\Users\Martin\Desktop\汽车租赁系统\系统源代码\CarRent\CarRent\bin\MySql.Data.dll
+C:\Users\Martin\Desktop\汽车租赁系统\系统源代码\CarRent\CarRent\obj\Debug\CarRent.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\汽车租赁系统\系统源代码\CarRent\CarRent\obj\Debug\CarRent.dll
+C:\Users\Martin\Desktop\汽车租赁系统\系统源代码\CarRent\CarRent\obj\Debug\CarRent.pdb
